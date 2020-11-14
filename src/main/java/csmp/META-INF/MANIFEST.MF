@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: home.Program
+Class-Path: converter-scalars-2.4.0.jar okio-1.14.0.jar jackson-annotati
+ ons-2.9.0.jar rxjava-2.2.3.jar okhttp-3.11.0.jar jackson-databind-2.9.4
+ .jar jackson-core-2.9.4.jar gson-2.8.5.jar slf4j-api-1.7.25.jar slf4j-s
+ imple-1.7.26.jar converter-jackson-2.4.0.jar retrofit-2.4.0.jar reactiv
+ e-streams-1.0.2.jar
+
